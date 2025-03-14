@@ -10,6 +10,9 @@ Don't add it!
 
 I did something here;
 
+ohhhhhhhhhhhh
+
+
 1.本地commit之后git push冲突显示reject
 git pull --no-rebase
 git add
