@@ -16,7 +16,7 @@ git add
 git commit -m 'Mearge banch 'Main' of XXX'
 git push
 
-2.本地直接git pull冲突，显示error
+2.本地未commit时git pull冲突，显示error
 git stash
 git pull
 git stash pop
